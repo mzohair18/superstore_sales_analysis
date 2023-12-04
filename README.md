@@ -21,19 +21,22 @@ Over the the two year period 2019-2020, Superstore generated $1 million in reven
 
 -REGION & STATE-LEVEL ANALYSIS
 
+![image](https://github.com/mzohair18/superstore_sales_analysis/assets/59119490/441b2e79-a197-42a6-82cb-751be90d5323)
+
+
 The West region boasted the highest revenue, with sales amounting to $438K, followed by the East region with sales of $394K. Within those two regions, California, Washington, and New York were the top states that contributed the most revenue to the company. Therefore, the company should focus on marketing efforts and optimizing inventory in those states to further increase sales.
 
 The Central region with sales of $295K, and the South with sales of $217K, represented two regions that might have had untapped potential worth exploring.
 
-![image](https://github.com/mzohair18/superstore_sales_analysis/assets/59119490/441b2e79-a197-42a6-82cb-751be90d5323)
 
 
 
 -Sales vs. Profit by Category and Sub-Category:
 
+![image](https://github.com/mzohair18/superstore_sales_analysis/assets/59119490/c4b7ab9a-4518-4dda-a483-3c307ed55373)
+
 The Technology category emerged as the leading performer in both sales and profit. Within this category, the Phones sub-category stood out with impressive sales and profit figures. On the other hand, the Furniture category showcased significant sales but had a notably lower profit margin. Within the Furniture category, the Tables displayed decent sales but operated at a loss. Additionally, both Bookcases and Supplies resulted in a negative profit for the company. These observations raise concerns, suggesting potential issues with the cost structure or pricing strategy, especially for the Tables, Bookcases, and Supplies subcategories.
 
-![image](https://github.com/mzohair18/superstore_sales_analysis/assets/59119490/c4b7ab9a-4518-4dda-a483-3c307ed55373)
 
 Technology sector sales
 ![image](https://github.com/mzohair18/superstore_sales_analysis/assets/59119490/82a668de-8445-47e3-8deb-9cdbf2b9dbeb)
